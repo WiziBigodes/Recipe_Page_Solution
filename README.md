@@ -20,4 +20,4 @@ I used HTML and CSS to finish this challenge.
 
 ## Preview
 
-![alt text]([images\Screenshot 2024-05-28 201516.png](https://github.com/WiziBigodes/Recipe_Page_Solution/blob/main/images/Screenshot%202024-05-28%20201516.png))
+![alt text](./images/Screenshot%202024-05-28%20201516.png)
